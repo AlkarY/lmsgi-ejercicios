@@ -1,0 +1,36 @@
+@charset "utf-8";
+
+body {
+    background-color: hsl(45, 92%, 95%);
+    font-family: sans-serif;
+    text-align: justify;
+    font-size: 200%;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+q {
+    font-style: oblique;
+}
+
+pre {
+    white-space: pre-wrap;
+    border: 2px black solid;
+    background-color: hsl(0, 0%, 93%);
+    margin-right: 10%;
+    margin-left: 10%;
+    font-size: 120%;
+    padding: 5px;
+}
+
+hr {
+    height: 5px;
+    background-color: black;
+    margin-right: 20%;
+    margin-left: 20%;
+}

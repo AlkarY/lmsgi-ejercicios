@@ -1,0 +1,11 @@
+body {
+    background-color: hsl(175, 40%, 50%);
+    font-size: 150%;
+    text-align: justify;
+}
+
+div {
+    background-color: hsl(0, 0%, 100%);
+    border: 20px hsl(20, 100%, 45%) solid;
+    margin: 15px 20%;
+}

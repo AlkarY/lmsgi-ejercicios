@@ -1,0 +1,52 @@
+body{
+    font-family: sans-serif;
+    background-color: hsl(154, 50%, 30%);
+    font-size: 125%;
+    text-align: justify;
+    color: white;
+}
+
+h1{
+    color: white;
+    text-transform: uppercase;
+    text-shadow: 5px 5px black;
+    text-align: left;
+}
+
+p.biografia{
+    color:black;
+    background-color: white;
+    border: black 10px solid;
+    border-radius: 30px;
+    padding: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+p.izquierda{
+    background-color: hsl(17, 50%, 45%);
+    border: hsl(17, 100%, 25%) 20px solid;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    padding: 10px;
+    margin-right: 50%;
+
+}
+
+p.derecha{
+    background-color: hsl(34, 50%, 45%);
+    border: hsl(34, 100%, 25%) 15px solid;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-left: 50%;
+    padding: 5px;
+}
+
+p.centro{
+    background-color: hsl(207, 100%, 25%);
+    border: hsl(207, 50%, 45%) 5px dashed;
+    padding: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+

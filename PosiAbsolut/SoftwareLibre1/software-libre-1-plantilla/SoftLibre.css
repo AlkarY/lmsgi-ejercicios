@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    background-color: #E0E1EB;
+    font-family: sans-serif;
+    text-align: justify;
+}
+
+h1 {
+    margin: 0;
+    background-color: #33354D;
+    color: white;
+    font-size: 400%;
+}
+
+h2 {
+    background-color: #33354D;
+    color: white;
+}
+
+h3 {
+    background-color: #29A333;
+    color: white;
+}
+
+div {
+    border: none;
+    border-radius: 15%;
+}

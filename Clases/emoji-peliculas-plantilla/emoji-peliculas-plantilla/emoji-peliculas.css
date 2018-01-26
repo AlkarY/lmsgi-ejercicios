@@ -1,0 +1,30 @@
+
+
+body{
+    background-color: hsl(35, 100%, 90%);
+    font-family: sans-serif;
+}
+
+h1 {
+    color: hsl(35, 100%, 30%);
+    text-transform: uppercase;
+}
+
+p.pregunta{
+    color: hsl(35, 100%, 50%);
+    font-size: 2rem;
+}
+
+span.rosa {
+    background-color: hsl(325, 100%, 90%);
+}
+
+span.blanco {
+    background-color: white;
+}
+
+details {
+    font-size: 4rem;
+    border: 2px black solid;
+}
+
